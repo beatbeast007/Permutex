@@ -1,5 +1,8 @@
 # Permutex
 A context-aware multi-threaded atomic password profiling engine with deep recursion, smart stretching, and high-performance sharding featuring atomic mutations, resumable sessions, and binary merging. Designed for precision profiling and advanced penetration testing and Red Teaming.
+
+<img width="1264" height="234" alt="image" src="https://github.com/user-attachments/assets/ac996534-97c7-4645-9073-f3b9c6c055e1" />
+
 ## Features
 
 - **Performance Profiles**: Select between Max, Balanced, Power Saver, or custom CPU profiles.
