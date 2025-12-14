@@ -23,7 +23,7 @@ These are planned for the next major release:
 Automatic enrichment of the wordlist with real-world data gathered from public sources (e.g., usernames, social media handles, breached data leaks) to better align with actual human behavior and targets.
 
 ### 2. Sub-Atomic (Self Recursive) Generation
-An ultra-deep recursive generation engine that produces permutations from the tiniest character substrings and self-refined patterns—pushing password generation to its theoretical limits.
+An ultra-deep recursive generation engine that produces permutations from the tiniest character substrings and self-refined patterns-pushing password generation to its theoretical limits.
 
 ---
 
