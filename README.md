@@ -68,6 +68,8 @@ You'll be guided through:
 
 7. Optional auto-merge and cleanup
 
+---
+
 ## Output
 - Outputs .txt or .json wordlists
 
@@ -77,6 +79,7 @@ You'll be guided through:
 
 - Intermediate shards saved in /shards/ directory
 
+---
 
 ## Legal & Ethical Disclaimer
 - Do not use this tool against systems or targets for which you do not have explicit, written permission.
@@ -85,8 +88,12 @@ You'll be guided through:
 - Please refer to SECURITY.md for our full security policy and vulnerability reporting guidelines.
 - maintained by Abhishek Bhagat (beatbeast007)
 
+---
+
 ## Contributing
 Pull requests are welcome! Feel free to fork the repo and submit changes.
+
+---
 
 ## Credits
 Built with ❤️ by BEAST (beatbeast007)
