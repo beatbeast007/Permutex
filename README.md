@@ -37,7 +37,7 @@ Permutex requires **Python 3.8+**.
 1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/yourusername/permutex.git](https://github.com/yourusername/permutex.git)
-    cd permutex
+    cd Permutex/permutex
     ```
 
 2.  **Install Dependencies:**
@@ -49,7 +49,7 @@ Permutex requires **Python 3.8+**.
 
 ## Usage
 
-Run the tool as a module from the root directory:
+Run the tool as a module from the root directory (Permutex/):
 
 ```bash
 python -m permutex.cli
